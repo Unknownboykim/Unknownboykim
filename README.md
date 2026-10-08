@@ -1,8 +1,130 @@
-🚀 About me
-Hello! I'm a web/app dev studying CS + Business @ Northeastern
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+<a href="https://github.com/Unknownboykim">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=180&section=header&text=Hi,%20I'm%20Ryan%20Kim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Header banner"/>
+</a>
 
-🛠 Tools and languages
+<br/>
 
-Code Languages: Java, Python, C++, HTML, Kotlin, JavaScript
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+<img src="https://komarev.com/ghpvc/?username=Unknownboykim&style=for-the-badge&color=2C9AF7&label=Profile+Views" alt="Profile views"/>
 
-Software: Figma, Unity 3D, Photoshop, GitHub, Visual Studio Code, TensorFlow, Keras
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownboykim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+- 🎓 Studying **Computer Science + Business** at **Northeastern University**
+- 💻 Web & app developer focused on clean, user-centered products
+- 🤖 Exploring **machine learning** with TensorFlow & Keras
+- 🎮 Building interactive experiences in **Unity 3D**
+- 🌱 Currently learning: `YOUR CURRENT FOCUS`
+- 📫 Reach me at: **YOUR-EMAIL@example.com**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tools & Languages
+
+<div align="center">
+
+### 💻 Code Languages
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,kotlin,js&perline=6" alt="Java, Python, C++, HTML, Kotlin, JavaScript"/>
+</a>
+
+### 🧰 Software & Frameworks
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,unity,ps,github,vscode,tensorflow&perline=6" alt="Figma, Unity, Photoshop, GitHub, VS Code, TensorFlow"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+
+</div>
+
+<details>
+<summary><b>📋 Click to view full skill breakdown</b></summary>
+<br/>
+
+| Category | Skills |
+|---|---|
+| **Languages** | Java · Python · C++ · HTML · Kotlin · JavaScript |
+| **Design** | Figma · Photoshop |
+| **Game Dev** | Unity 3D |
+| **Machine Learning** | TensorFlow · Keras |
+| **Dev Tools** | Git / GitHub · Visual Studio Code |
+
+</details>
+
+---
+
+## 📌 Featured Projects
+
+<details open>
+<summary><b>🔹 PROJECT NAME ONE</b> — short one-line description</summary>
+<br/>
+
+> What it does, the problem it solves, and your role.
+
+**Tech:** `Kotlin` `Figma` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/REPO) · [🌐 Live Demo](https://YOUR-DEMO-LINK)
+
+</details>
+
+<details>
+<summary><b>🔹 PROJECT NAME TWO</b> — short one-line description</summary>
+<br/>
+
+> What it does, the problem it solves, and your role.
+
+**Tech:** `Python` `TensorFlow` `Keras` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/REPO)
+
+</details>
+
+<details>
+<summary><b>🔹 PROJECT NAME THREE</b> — short one-line description</summary>
+<br/>
+
+> What it does, the problem it solves, and your role.
+
+**Tech:** `Unity 3D` `C#` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/REPO)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Unknownboykim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Unknownboykim&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unknownboykim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects, internships, and co-op opportunities.
+**Feel free to reach out!**
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
