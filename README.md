@@ -23,7 +23,7 @@
 - 💻 Web & app developer focused on clean, user-centered products
 - 🤖 Exploring **machine learning** with TensorFlow & Keras
 - 🎮 Building interactive experiences in **Unity 3D**
-- 🌱 Currently learning: `YOUR CURRENT FOCUS`
+- 🎯 My goals: **master coding → build AI → make robots → start my own company**
 - 📫 Reach me at: **YOUR-EMAIL@example.com**
 
 <br clear="right"/>
