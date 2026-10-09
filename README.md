@@ -24,6 +24,7 @@
 - 🤖 Exploring **machine learning** with TensorFlow & Keras
 - 🎮 Building interactive experiences in **Unity 3D**
 - 🎯 My goals: **master coding → build AI → make robots → start my own company**
+- 🤝 Clubs: **Northeastern Entrepreneur Club** · **AINU Club** · **NU Robotics Club** · **Hackathons (Chatathon)**
 - 📫 Reach me at: **YOUR-EMAIL@example.com**
 
 <br clear="right"/>
