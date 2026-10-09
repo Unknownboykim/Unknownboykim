@@ -89,12 +89,16 @@
 ## 📌 Featured Projects
 
 <details open>
-<summary><b>🔹 PROJECT NAME ONE</b> — short one-line description</summary>
+<summary><b>🤖 PiCar-X Lego Turret Robot</b> — joystick-controlled servo turret on a Raspberry Pi 5 robot car</summary>
 <br/>
 
-> What it does, the problem it solves, and your role.
+> Built a joystick-controlled servo turret and Lego missile launcher on a SunFounder PiCar-X from scratch, with no existing tutorial to follow.
+>
+> - Fixed SPI communication failures by wiring the joystick straight to the Robot HAT V4's built-in 12-bit ADC pins, which removed an external chip, and tuned PWM on pin P3 for precise turret pan
+> - Wrote one Python control loop (`combined_app.py`) that combines mobile app control, live WiFi camera streaming and real-time servo control
+> - Published wiring diagrams, code and a demo video
 
-**Tech:** `Kotlin` `Figma` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/REPO) · [🌐 Live Demo](https://YOUR-DEMO-LINK)
+**Tech:** `Python` `Raspberry Pi 5` `Robot HAT V4` `Embedded Systems` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/picarx-lego-turret) · [▶️ Demo Video](https://www.youtube.com/watch?v=pMx2uCLGDFA)
 
 </details>
 
