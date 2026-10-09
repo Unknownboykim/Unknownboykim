@@ -37,16 +37,31 @@
 ### 💻 Code Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,kotlin,js&perline=6" alt="Java, Python, C++, HTML, Kotlin, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,js,kotlin,swift&perline=7" alt="Java, Python, C++, HTML, JavaScript, Kotlin, Swift"/>
 </a>
 
 ### 🧰 Software & Frameworks
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,unity,ps,github,vscode,tensorflow&perline=6" alt="Figma, Unity, Photoshop, GitHub, VS Code, TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=figma,unity,ps,pr,github,vscode,tensorflow&perline=7" alt="Figma, Unity, Photoshop, Premiere Pro, GitHub, VS Code, TensorFlow"/>
 </a>
 <br/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+
+### ☁️ Cloud & Hardware
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,raspberrypi&perline=2" alt="Microsoft Azure, Raspberry Pi"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/Embedded_Systems-2E7D32?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems"/>
+
+### 📊 Data & Productivity
+
+<img src="https://img.shields.io/badge/Power_BI_(DAX)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI (DAX)"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
 
 </div>
 
@@ -56,11 +71,16 @@
 
 | Category | Skills |
 |---|---|
-| **Languages** | Java · Python · C++ · HTML · Kotlin · JavaScript |
-| **Design** | Figma · Photoshop |
-| **Game Dev** | Unity 3D |
+| **Languages** | Java · Python · C++ · HTML · JavaScript · Kotlin |
+| **Mobile Development** | iOS (Swift) |
 | **Machine Learning** | TensorFlow · Keras |
+| **Hardware & Embedded** | Embedded Systems · Raspberry Pi 5 |
+| **Cloud** | Microsoft Azure |
+| **Data & Analytics** | Power BI (DAX) · Microsoft Excel |
+| **Design & Media** | Figma · Photoshop · Adobe Premiere Pro |
+| **Game Dev** | Unity 3D |
 | **Dev Tools** | Git / GitHub · Visual Studio Code |
+| **Productivity** | Microsoft 365 · Microsoft Word |
 
 </details>
 
