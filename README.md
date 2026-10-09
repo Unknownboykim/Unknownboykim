@@ -103,12 +103,16 @@
 </details>
 
 <details>
-<summary><b>🔹 PROJECT NAME TWO</b> — short one-line description</summary>
+<summary><b>🧠 Image Classification with ML & Deep Learning</b> — Python Developer, University of Arkansas at Little Rock (Summer 2025)</summary>
 <br/>
 
-> What it does, the problem it solves, and your role.
+> Built image classification models during a summer role at UA Little Rock, including a parking-space detector for real-time camera use and a CNN that reached 95% validation accuracy.
+>
+> - **Parking-space detector:** a scikit-learn pipeline that labels spaces as empty or occupied, using HOG features on images resized to 15×15 and an SVM tuned with GridSearchCV
+> - **Deployment:** stratified 80/20 train–test splits, with the trained model saved as a pickle file so it can classify new camera images on the fly
+> - **Deep learning:** a CNN built in Keras/TensorFlow and trained on a 25,000-image dataset with data augmentation, reaching **95% validation accuracy** and evaluated with confusion matrices
 
-**Tech:** `Python` `TensorFlow` `Keras` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/REPO)
+**Tech:** `Python` `scikit-learn` `TensorFlow` `Keras` `NumPy` `Pandas` `Matplotlib` `Seaborn` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/InternshipCollab)
 
 </details>
 
