@@ -7,7 +7,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/ryankim1104/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://unknownboykim.github.io/Portfolio_Site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=Unknownboykim&style=for-the-badge&color=2C9AF7&label=Profile+Views" alt="Profile views"/>
 
@@ -17,17 +16,12 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknownboykim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
 - 🎓 Studying **Computer Science + Business** at **Northeastern University**
 - 💻 Web & app developer focused on clean, user-centered products
 - 🤖 Exploring **machine learning** with TensorFlow & Keras
 - 🎮 Building interactive experiences in **Unity 3D**
 - 🎯 My goals: **master coding → build AI → make robots → start my own company**
 - 🤝 Clubs: **Northeastern Entrepreneur Club** · **AINU Club** · **NU Robotics Club** · **Hackathons (Chatathon)**
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
-
-<br clear="right"/>
 
 ---
 
@@ -129,21 +123,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Unknownboykim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=Unknownboykim&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unknownboykim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -152,7 +131,6 @@ I'm always open to collaborating on interesting projects, internships, and co-op
 **Feel free to reach out!**
 
 <a href="https://www.linkedin.com/in/ryankim1104/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer banner"/>
 
