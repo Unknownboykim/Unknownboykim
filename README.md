@@ -112,12 +112,17 @@
 </details>
 
 <details>
-<summary><b>🔹 PROJECT NAME THREE</b> — short one-line description</summary>
+<summary><b>🐧 Palmer Penguins Explorer</b> — interactive Streamlit dashboard with ML species prediction</summary>
 <br/>
 
-> What it does, the problem it solves, and your role.
+> An interactive data dashboard for exploring body measurements of 333 real penguins (Adelie, Chinstrap, Gentoo) from three islands in Antarctica.
+>
+> - **Filters & metrics:** sidebar filters for species, island and body mass, with live summary metrics (penguin count, average mass, average flipper length)
+> - **Charts:** a scatter plot with selectable axes, a histogram and a by-island bar chart, built with Plotly
+> - **Data:** a filtered data table with CSV download
+> - **Predict:** a random forest classifier (scikit-learn, 100 trees) that predicts species from four slider inputs and shows a confidence score
 
-**Tech:** `Unity 3D` `C#` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/REPO)
+**Tech:** `Python` `Streamlit` `Pandas` `Plotly` `scikit-learn` &nbsp;|&nbsp; [🔗 Repo](https://github.com/Unknownboykim/Streamlit-Dashboard)
 
 </details>
 
@@ -131,6 +136,7 @@ I'm always open to collaborating on interesting projects, internships, and co-op
 **Feel free to reach out!**
 
 <a href="https://www.linkedin.com/in/ryankim1104/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://unknownboykim.github.io/Portfolio_Site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer banner"/>
 
